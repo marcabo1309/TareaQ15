@@ -23,8 +23,8 @@ public class Rectangulo {
         return area;
     }
     
-    
-    
-    
+    public double  perimetroRectang(){
+        return (lado1 * 2) + (lado2 * 2);
+    }
     
 }
